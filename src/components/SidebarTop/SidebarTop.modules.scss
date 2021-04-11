@@ -1,0 +1,24 @@
+.SidebarTop {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    margin-bottom: 60px;
+}
+
+.burger-btn {
+    background-color: transparent;
+    outline: none;
+    border: none;
+    width: 20px;
+    height: 20px;
+    margin-right: 30px;
+    cursor: pointer;
+
+    .burger-span {
+        background-color: #fff;
+        margin-bottom: 5px;
+        width: 20px;
+        height: 3px;
+        border-radius: 5px;
+    }
+}

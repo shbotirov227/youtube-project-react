@@ -1,0 +1,28 @@
+.SidebarBtn {
+    .sidebar-btn {
+        width: 100%;
+        border: none;
+        outline: none;
+        background-color: transparent;
+        color: white;
+        margin-bottom: 30px;
+        display: flex;
+        align-items: center;
+        cursor: pointer;
+
+        font-style: normal;
+        font-weight: normal;
+        font-size: 16px;
+        line-height: 20px;
+        color: #FFFFFF;
+        mix-blend-mode: normal;
+        opacity: 0.5;
+
+        span {
+            margin-left: 15px;
+        }
+    }
+    .top {
+        margin-bottom: 60px;
+    }
+}
